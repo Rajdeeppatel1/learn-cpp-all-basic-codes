@@ -1,1 +1,1 @@
-This repository contan all basic codes of input out put conditional statement class operator etc 
+This repository contan all basic codes of cpp of input output conditional statement class operator etc 
